@@ -4,7 +4,7 @@ I´m a FullStack Web Developer, currently living in the city of Lujan de Cuyo, A
 
 - You can contact me via email: matias@biott.com.ar
 # 💫 About Me:
-🔭 I’m currently working on maintaining an application built with React Native.<br>👯 I’m looking to collaborate on projects for mobile, web, or backend development using React Native, React, NodeJS, Python, etc.<br>🌱 I’m currently learning TypeScript, NestJS, and Next.js.
+🔭 I’m currently working on maintaining an application built with React Native and building an Fullstack Admin Dashboard with NestJS and NextJS.<br>👯 I’m looking to collaborate on projects for mobile, web, or backend development using React Native, React, NodeJS, Python, etc.<br>🌱 I’m currently learning more about TypeScript, NestJS, and Next.js.
 
 
 ## 🌐 Socials:
